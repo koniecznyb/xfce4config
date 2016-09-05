@@ -54,6 +54,13 @@
       <value type="string" value="3"/>
       <value type="string" value="4"/>
       <value type="string" value="Workspace 5"/>
+      <value type="string" value="Workspace 6"/>
+      <value type="string" value="Workspace 7"/>
+      <value type="string" value="Workspace 8"/>
+      <value type="string" value="Workspace 9"/>
+      <value type="string" value="Workspace 10"/>
+      <value type="string" value="Workspace 11"/>
+      <value type="string" value="Workspace 12"/>
     </property>
     <property name="wrap_resistance" type="empty"/>
     <property name="wrap_windows" type="empty"/>
