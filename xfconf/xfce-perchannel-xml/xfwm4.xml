@@ -3,8 +3,8 @@
 <channel name="xfwm4" version="1.0">
   <property name="general" type="empty">
     <property name="activate_action" type="empty"/>
-    <property name="box_move" type="empty"/>
-    <property name="box_resize" type="empty"/>
+    <property name="box_move" type="bool" value="true"/>
+    <property name="box_resize" type="bool" value="true"/>
     <property name="button_layout" type="empty"/>
     <property name="button_offset" type="empty"/>
     <property name="button_spacing" type="empty"/>
@@ -72,7 +72,7 @@
     <property name="cycle_tabwin_mode" type="int" value="0"/>
     <property name="cycle_workspaces" type="bool" value="false"/>
     <property name="double_click_action" type="string" value="maximize"/>
-    <property name="easy_click" type="string" value="Alt"/>
+    <property name="easy_click" type="string" value=""/>
     <property name="focus_hint" type="bool" value="true"/>
     <property name="horiz_scroll_opacity" type="bool" value="false"/>
     <property name="inactive_opacity" type="int" value="100"/>
