@@ -66,6 +66,7 @@
       <property name="XF86Music" type="string" value="parole"/>
       <property name="XF86HomePage" type="string" value="exo-open --launch WebBrowser"/>
       <property name="override" type="bool" value="true"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;e" type="string" value="code"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
