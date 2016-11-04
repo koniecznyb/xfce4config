@@ -7,7 +7,7 @@ fi
 
 chmod +x $PWD/*.sh
 
-SCRIPTS=(env_startup vboxclipboardreset vboxreset)
+SCRIPTS=(envstartup vboxclipboardreset vboxreset)
 
 for script in "${SCRIPTS[@]}"
 do
