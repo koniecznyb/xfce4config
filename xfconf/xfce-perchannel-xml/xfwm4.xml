@@ -14,7 +14,7 @@
     <property name="double_click_distance" type="empty"/>
     <property name="double_click_time" type="empty"/>
     <property name="focus_delay" type="empty"/>
-    <property name="focus_new" type="bool" value="false"/>
+    <property name="focus_new" type="bool" value="true"/>
     <property name="frame_opacity" type="int" value="100"/>
     <property name="full_width_title" type="empty"/>
     <property name="maximized_offset" type="empty"/>
@@ -73,7 +73,7 @@
     <property name="cycle_workspaces" type="bool" value="false"/>
     <property name="double_click_action" type="string" value="maximize"/>
     <property name="easy_click" type="string" value=""/>
-    <property name="focus_hint" type="bool" value="true"/>
+    <property name="focus_hint" type="bool" value="false"/>
     <property name="horiz_scroll_opacity" type="bool" value="false"/>
     <property name="inactive_opacity" type="int" value="100"/>
     <property name="move_opacity" type="int" value="100"/>
