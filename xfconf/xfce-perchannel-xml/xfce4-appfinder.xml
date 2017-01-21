@@ -39,7 +39,7 @@
     </property>
   </property>
   <property name="last" type="empty">
-    <property name="window-height" type="int" value="157"/>
+    <property name="window-height" type="int" value="159"/>
     <property name="window-width" type="int" value="400"/>
     <property name="pane-position" type="int" value="180"/>
   </property>

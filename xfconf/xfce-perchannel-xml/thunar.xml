@@ -6,10 +6,11 @@
   <property name="last-view" type="string" value="ThunarDetailsView"/>
   <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_NORMAL"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
-  <property name="last-details-view-column-widths" type="string" value="50,104,50,50,598,50,50,70,256"/>
+  <property name="last-details-view-column-widths" type="string" value="50,463,50,50,279,50,50,81,172"/>
   <property name="last-separator-position" type="int" value="170"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-window-width" type="int" value="997"/>
   <property name="last-window-height" type="int" value="664"/>
   <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-side-pane" type="string" value="void"/>
 </channel>
